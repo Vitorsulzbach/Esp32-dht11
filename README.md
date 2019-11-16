@@ -14,6 +14,6 @@ The example on de folder `example` make the reading of temperature and humidity 
 
 ## Wiring
 
-`vin ---> vcc
+`vin ---> vcc\n
 D4 ---> data
 gnd ---> gnd`
