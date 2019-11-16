@@ -18,7 +18,7 @@ Supposing that you have followed the instructions of the [Getting Started](https
 
 ## Example
 
-The [example](https://github.com/Vitorsulzbach/Esp32-dht11/blob/master/example/dht11_ESP32_example.c) on de folder `example` make the reading of temperature and humidity in a loop.
+The [example](https://github.com/Vitorsulzbach/Esp32-dht11/blob/master/example/dht11_ESP32_example.c) on the folder `example` make the reading of temperature and humidity in a loop.
 
 ### Wiring
 
