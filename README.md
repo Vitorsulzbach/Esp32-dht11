@@ -15,8 +15,8 @@ The example on de folder `example` make the reading of temperature and humidity 
 ## Wiring
 
 ```
-ESP32    DHT11
-vin ---> vcc\n
-D4 ---> data
-gnd ---> gnd
+ESP32        DHT11
+vin   --->   vcc\n
+D4    --->   data
+gnd   --->   gnd
 ```
