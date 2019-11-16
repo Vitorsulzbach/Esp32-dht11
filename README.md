@@ -2,11 +2,11 @@
 
 Original made by [samrjohnston](https://github.com/samrjohnston/ESP32Projects) end edited by [lemonhall](https://github.com/lemonhall/esp32_dht11).
 
-Edited again to make it work with newer versions of ESP-IDF, also the checksum had to be removed. Other simple changes were made only for personal code methodology and organization.
+Redited again to make it work with newer versions of ESP-IDF, also the checksum had to be removed. Other simple changes were made only for personal code methodology and organization.
 
 ## Including
 
-Download or clone it to `~/esp/esp-idf/componentes/` folder and have fun.
+Suposing that you have followed the instructions of the [Getting Started](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) page of ESP-IDF documentation, Download or clone it to `~/esp/esp-idf/componentes/` folder and have fun.
 
 # Example
 
