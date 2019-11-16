@@ -6,4 +6,4 @@ Edited again to make it work with newer versions of ESP-IDF
 
 ## Including
 
-Download or clone it to '~/esp/esp-idf/componentes/' folder and have fun.
+Download or clone it to `~/esp/esp-idf/componentes/` folder and have fun.
