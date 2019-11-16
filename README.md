@@ -6,7 +6,7 @@ Reedited again to make it work with newer versions of ESP-IDF, also the checksum
 
 ## Including
 
-Suposing that you have followed the instructions of the [Getting Started](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) page of ESP-IDF documentation, Download or clone it to `~/esp/esp-idf/componentes/` folder and have fun.
+Supposing that you have followed the instructions of the [Getting Started](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) page of ESP-IDF documentation, Download or clone it to `~/esp/esp-idf/componentes/` folder and have fun.
 
 ## Usage
 
