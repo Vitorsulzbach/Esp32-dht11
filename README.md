@@ -8,11 +8,11 @@ Redited again to make it work with newer versions of ESP-IDF, also the checksum 
 
 Suposing that you have followed the instructions of the [Getting Started](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) page of ESP-IDF documentation, Download or clone it to `~/esp/esp-idf/componentes/` folder and have fun.
 
-# Example
+## Example
 
 The [example](https://github.com/Vitorsulzbach/Esp32-dht11/blob/master/example/dht11_ESP32_example.c) on de folder `example` make the reading of temperature and humidity in a loop.
 
-## Wiring
+### Wiring
 
 ```
 ESP32        DHT11
