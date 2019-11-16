@@ -10,13 +10,13 @@ Download or clone it to `~/esp/esp-idf/componentes/` folder and have fun.
 
 # Example
 
-The [example](https://github.com/Vitorsulzbach/Esp32-dht11/tree/master/example) on de folder `example` make the reading of temperature and humidity in a loop.
+The [example](https://github.com/Vitorsulzbach/Esp32-dht11/blob/master/example/dht11_ESP32_example.c) on de folder `example` make the reading of temperature and humidity in a loop.
 
 ## Wiring
 
 ```
 ESP32        DHT11
-vin   --->   vcc\n
-D4    --->   data
-gnd   --->   gnd
+VIN   --->   VCC
+D4    --->   DATA
+GND   --->   GND
 ```
