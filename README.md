@@ -2,7 +2,7 @@
 
 Original made by [samrjohnston](https://github.com/samrjohnston/ESP32Projects) end edited by [lemonhall](https://github.com/lemonhall/esp32_dht11).
 
-Redited again to make it work with newer versions of ESP-IDF, also the checksum had to be removed. Other simple changes were made only for personal code methodology and organization.
+Redited again to make it work with newer versions of ESP-IDF, also the checksum had to be removed due to inconsistence. Other simple changes were made only for personal code methodology and organization.
 
 ## Including
 
