@@ -12,8 +12,8 @@ Supposing that you have followed the instructions of the [Getting Started](https
 
 1. Use `setDHTPin(int pin);` to select the pin of the sensor.
 2. Create a `Struct read` that will store the reading.
-3. Send the adress of it to `getData(struct read *r);`.
-4. The struc now contains the value of humidity in `read.humidity` and the value of temperature(in ºC) in `read.temperature`.
+3. Send the address of it to `getData(struct read *r);`.
+4. The struct now contains the value of humidity in `read.humidity` and the value of temperature(in ºC) in `read.temperature`.
 5. If you want the temperature in ºF just make the conversion.
 
 ## Example
