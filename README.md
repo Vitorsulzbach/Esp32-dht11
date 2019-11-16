@@ -10,7 +10,7 @@ Download or clone it to `~/esp/esp-idf/componentes/` folder and have fun.
 
 # Example
 
-The example on de folder `example` make the reading of temperature and humidity in a loop.
+The [example](https://github.com/Vitorsulzbach/Esp32-dht11/tree/master/example) on de folder `example` make the reading of temperature and humidity in a loop.
 
 ## Wiring
 
