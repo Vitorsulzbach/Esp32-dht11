@@ -43,6 +43,7 @@ void app_main(void)
       ESP_ERROR_CHECK(nvs_flash_erase());
       ret = nvs_flash_init();
     }
+	setDHTPin(4);
     ESP_ERROR_CHECK(ret);
     vTaskDelay(1000 / portTICK_RATE_MS);
     xTaskCreate(&DHT_task, "DHT_task", 2048, NULL, 5, NULL);
